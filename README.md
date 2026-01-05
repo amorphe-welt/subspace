@@ -1,4 +1,4 @@
-# Sense-Subspace Lexical Semantic Change Detection Pipeline
+# Sense-Aware Lexical Semantic Change Detection via Fixed Subspace Projections
 
 This repository contains a complete pipeline for **Lexical Semantic Change Detection (LSCD)** using sense-based subspaces. It leverages transformer-based embeddings to extract word representations, builds robust sense subspaces, and tracks semantic trajectories across chronological timespans.
 
