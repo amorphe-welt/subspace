@@ -79,6 +79,6 @@ All results are saved to the directory specified by `$OUTPUT_DIR` (default: `xl-
 
 * **/embeddings/**: Raw and processed `.pkl` files of contextual embeddings.
 * **/layer_selection/**: JSON report on the best-performing layer.
-* **/subspaces/**: Mathematical definitions of the sense-specific subspaces.
-* **/analysis/**: Semantic change metrics (JSD) and statistical tables.
+* **/subspaces/**: Sense-specific subspaces.
+* **/analysis/**: Semantic change metrics (JSD) and plots.
 * **/trajectory_plots/**: 3D PNG/PDF plots showing sense evolution over time.
