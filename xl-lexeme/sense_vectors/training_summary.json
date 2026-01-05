@@ -1,0 +1,106 @@
+{
+  "virus": {
+    "n_vectors": 3,
+    "stability": 0.9968744516372681
+  },
+  "block": {
+    "n_vectors": 15,
+    "stability": 0.9809313416481018
+  },
+  "kurs": {
+    "n_vectors": 10,
+    "stability": 0.9971463680267334
+  },
+  "richtung": {
+    "n_vectors": 6,
+    "stability": 0.9960403442382812
+  },
+  "blatt": {
+    "n_vectors": 21,
+    "stability": 0.9905866384506226
+  },
+  "buch": {
+    "n_vectors": 15,
+    "stability": 0.9859375953674316
+  },
+  "decke": {
+    "n_vectors": 6,
+    "stability": 0.9961658716201782
+  },
+  "maske": {
+    "n_vectors": 15,
+    "stability": 0.9610366821289062
+  },
+  "kasse": {
+    "n_vectors": 21,
+    "stability": 0.9965782165527344
+  },
+  "atmosph\u00e4re": {
+    "n_vectors": 10,
+    "stability": 0.9982185363769531
+  },
+  "bank": {
+    "n_vectors": 10,
+    "stability": 0.9953160285949707
+  },
+  "fl\u00fcgel": {
+    "n_vectors": 28,
+    "stability": 0.9917687177658081
+  },
+  "pflaster": {
+    "n_vectors": 3,
+    "stability": 0.9967232942581177
+  },
+  "schnabel": {
+    "n_vectors": 3,
+    "stability": 0.9993669390678406
+  },
+  "zeitung": {
+    "n_vectors": 3,
+    "stability": 0.9276650547981262
+  },
+  "gesichtsmaske": {
+    "n_vectors": 3,
+    "stability": 0.9705491662025452
+  },
+  "klima": {
+    "n_vectors": 3,
+    "stability": 0.9981933236122131
+  },
+  "kartenspiel": {
+    "n_vectors": 3,
+    "stability": 0.986217200756073
+  },
+  "fu\u00df": {
+    "n_vectors": 10,
+    "stability": 0.9641305804252625
+  },
+  "tor": {
+    "n_vectors": 10,
+    "stability": 0.9982588887214661
+  },
+  "pinsel": {
+    "n_vectors": 3,
+    "stability": 0.9840587973594666
+  },
+  "schimmel": {
+    "n_vectors": 3,
+    "stability": 0.998491644859314
+  },
+  "klappe": {
+    "n_vectors": 6,
+    "stability": 0.9952910542488098
+  },
+  "universit\u00e4t": {
+    "n_vectors": 6,
+    "stability": 0.9863929748535156
+  },
+  "diarium": {
+    "n_vectors": 3,
+    "stability": 0.9768306612968445
+  },
+  "stammbuch": {
+    "n_vectors": 6,
+    "stability": 0.9784584641456604
+  }
+}

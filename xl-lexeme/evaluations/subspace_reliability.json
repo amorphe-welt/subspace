@@ -1,0 +1,184 @@
+{
+  "schimmel": {
+    "lexeme": "schimmel",
+    "orthonormality_error": 1.17948226735423,
+    "mean_confidence": 0.5589023891765701,
+    "std_confidence": 0.11702239956749065,
+    "resample_stability_error": 0.18648047745227814
+  },
+  "maske": {
+    "lexeme": "maske",
+    "orthonormality_error": 2.370836683302604,
+    "mean_confidence": 0.2707821029286435,
+    "std_confidence": 0.051635065409547175,
+    "resample_stability_error": 0.11837857961654663
+  },
+  "richtung": {
+    "lexeme": "richtung",
+    "orthonormality_error": 1.4109234821043684,
+    "mean_confidence": 0.3992972429150547,
+    "std_confidence": 0.08112158500665559,
+    "resample_stability_error": 0.09486947953701019
+  },
+  "block": {
+    "lexeme": "block",
+    "orthonormality_error": 2.451663232607593,
+    "mean_confidence": 0.2965255853942215,
+    "std_confidence": 0.06490825738200237,
+    "resample_stability_error": 0.09099507331848145
+  },
+  "fuß": {
+    "lexeme": "fu\u00df",
+    "orthonormality_error": 1.6744099952028761,
+    "mean_confidence": 0.3410548574752198,
+    "std_confidence": 0.0643161808828555,
+    "resample_stability_error": 0.031594306230545044
+  },
+  "klima": {
+    "lexeme": "klima",
+    "orthonormality_error": 1.0061137361376618,
+    "mean_confidence": 0.5868210229736744,
+    "std_confidence": 0.13059461868458344,
+    "resample_stability_error": 0.035777658224105835
+  },
+  "pflaster": {
+    "lexeme": "pflaster",
+    "orthonormality_error": 0.8310929545747212,
+    "mean_confidence": 0.5515892449978193,
+    "std_confidence": 0.10853820209877228,
+    "resample_stability_error": 0.0613597072660923
+  },
+  "decke": {
+    "lexeme": "decke",
+    "orthonormality_error": 1.4854328053408499,
+    "mean_confidence": 0.41242216639281926,
+    "std_confidence": 0.08691412025720999,
+    "resample_stability_error": 0.06970981508493423
+  },
+  "pinsel": {
+    "lexeme": "pinsel",
+    "orthonormality_error": 1.3018837837355723,
+    "mean_confidence": 0.54191581523473,
+    "std_confidence": 0.10618061541737289,
+    "resample_stability_error": 0.032846275717020035
+  },
+  "kurs": {
+    "lexeme": "kurs",
+    "orthonormality_error": 2.020627123434497,
+    "mean_confidence": 0.39383989538770947,
+    "std_confidence": 0.0977439178376561,
+    "resample_stability_error": 0.056298401206731796
+  },
+  "kasse": {
+    "lexeme": "kasse",
+    "orthonormality_error": 2.6694165371269603,
+    "mean_confidence": 0.22506215907295216,
+    "std_confidence": 0.0470066471331533,
+    "resample_stability_error": 0.10732710361480713
+  },
+  "bank": {
+    "lexeme": "bank",
+    "orthonormality_error": 1.6578149660551609,
+    "mean_confidence": 0.3920549721372704,
+    "std_confidence": 0.09250419255915335,
+    "resample_stability_error": 0.057917892932891846
+  },
+  "klappe": {
+    "lexeme": "klappe",
+    "orthonormality_error": 1.6260600438861441,
+    "mean_confidence": 0.4061225304592512,
+    "std_confidence": 0.08580095156145619,
+    "resample_stability_error": 0.03835402429103851
+  },
+  "virus": {
+    "lexeme": "virus",
+    "orthonormality_error": 0.9853459169423766,
+    "mean_confidence": 0.6449674016779096,
+    "std_confidence": 0.12602912828094742,
+    "resample_stability_error": 0.06922365725040436
+  },
+  "diarium": {
+    "lexeme": "diarium",
+    "orthonormality_error": 0.6817233768255779,
+    "mean_confidence": 0.615496487042045,
+    "std_confidence": 0.11949624440061167,
+    "resample_stability_error": 0.0820365697145462
+  },
+  "blatt": {
+    "lexeme": "blatt",
+    "orthonormality_error": 2.471346442443998,
+    "mean_confidence": 0.2627799840167374,
+    "std_confidence": 0.06559155478137811,
+    "resample_stability_error": 0.04990886151790619
+  },
+  "buch": {
+    "lexeme": "buch",
+    "orthonormality_error": 2.2201165229245605,
+    "mean_confidence": 0.28341979055775185,
+    "std_confidence": 0.04915332664824772,
+    "resample_stability_error": 0.06972872465848923
+  },
+  "atmosph\u00e4re": {
+    "lexeme": "atmosph\u00e4re",
+    "orthonormality_error": 2.0143500554064695,
+    "mean_confidence": 0.38112863092331395,
+    "std_confidence": 0.08343517981948936,
+    "resample_stability_error": 0.07349663227796555
+  },
+  "universit\u00e4t": {
+    "lexeme": "universit\u00e4t",
+    "orthonormality_error": 1.5112901453747738,
+    "mean_confidence": 0.39237552211699495,
+    "std_confidence": 0.0746889698997591,
+    "resample_stability_error": 0.04251117631793022
+  },
+  "stammbuch": {
+    "lexeme": "stammbuch",
+    "orthonormality_error": 1.25698430683832,
+    "mean_confidence": 0.47280562341837085,
+    "std_confidence": 0.10819165230129832,
+    "resample_stability_error": 0.060545824468135834
+  },
+  "zeitung": {
+    "lexeme": "zeitung",
+    "orthonormality_error": 1.2591552812490858,
+    "mean_confidence": 0.554822049368356,
+    "std_confidence": 0.09992411578772778,
+    "resample_stability_error": 0.043170128017663956
+  },
+  "schnabel": {
+    "lexeme": "schnabel",
+    "orthonormality_error": 1.0793979452128113,
+    "mean_confidence": 0.524095154490084,
+    "std_confidence": 0.10770209299401855,
+    "resample_stability_error": 0.09855424612760544
+  },
+  "tor": {
+    "lexeme": "tor",
+    "orthonormality_error": 1.729843241493893,
+    "mean_confidence": 0.3871434333264385,
+    "std_confidence": 0.07300961286086179,
+    "resample_stability_error": 0.06287700682878494
+  },
+  "fl\u00fcgel": {
+    "lexeme": "fl\u00fcgel",
+    "orthonormality_error": 2.8723264202170085,
+    "mean_confidence": 0.2406824656808351,
+    "std_confidence": 0.07345538334628793,
+    "resample_stability_error": 0.05736282095313072
+  },
+  "kartenspiel": {
+    "lexeme": "kartenspiel",
+    "orthonormality_error": 0.8288482484620229,
+    "mean_confidence": 0.5490145725986172,
+    "std_confidence": 0.10313932596305848,
+    "resample_stability_error": 0.07672922313213348
+  },
+  "gesichtsmaske": {
+    "lexeme": "gesichtsmaske",
+    "orthonormality_error": 1.254529647774693,
+    "mean_confidence": 0.5818054169137765,
+    "std_confidence": 0.12601840391868496,
+    "resample_stability_error": 0.26380741596221924
+  }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "lexeme": "virus",
+    "StabilityErr": 0.06922365725040436,
+    "MeanConf": 0.6449674016779096,
+    "PseudoCoverage": 0.8739653287521474,
+    "QualityScore": 0.9465246132191326
+  },
+  {
+    "lexeme": "klima",
+    "StabilityErr": 0.035777658224105835,
+    "MeanConf": 0.5868210229736744,
+    "PseudoCoverage": 0.77,
+    "QualityScore": 0.9079124703710892
+  },
+  {
+    "lexeme": "diarium",
+    "StabilityErr": 0.0820365697145462,
+    "MeanConf": 0.615496487042045,
+    "PseudoCoverage": 0.7407407407407407,
+    "QualityScore": 0.8533265769161856
+  },
+  {
+    "lexeme": "zeitung",
+    "StabilityErr": 0.043170128017663956,
+    "MeanConf": 0.554822049368356,
+    "PseudoCoverage": 0.6575839379112536,
+    "QualityScore": 0.8285258613989268
+  },
+  {
+    "lexeme": "pinsel",
+    "StabilityErr": 0.032846275717020035,
+    "MeanConf": 0.54191581523473,
+    "PseudoCoverage": 0.639344262295082,
+    "QualityScore": 0.8259584662100594
+  },
+  {
+    "lexeme": "pflaster",
+    "StabilityErr": 0.0613597072660923,
+    "MeanConf": 0.5515892449978193,
+    "PseudoCoverage": 0.6401818575449232,
+    "QualityScore": 0.7933659072615986
+  },
+  {
+    "lexeme": "kartenspiel",
+    "StabilityErr": 0.07672922313213348,
+    "MeanConf": 0.5490145725986172,
+    "PseudoCoverage": 0.6785714285714286,
+    "QualityScore": 0.7844354963515037
+  },
+  {
+    "lexeme": "schnabel",
+    "StabilityErr": 0.09855424612760544,
+    "MeanConf": 0.524095154490084,
+    "PseudoCoverage": 0.5210970464135021,
+    "QualityScore": 0.6725733243607295
+  },
+  {
+    "lexeme": "schimmel",
+    "StabilityErr": 0.18648047745227814,
+    "MeanConf": 0.5589023891765701,
+    "PseudoCoverage": 0.6804123711340206,
+    "QualityScore": 0.6369540038617064
+  },
+  {
+    "lexeme": "stammbuch",
+    "StabilityErr": 0.060545824468135834,
+    "MeanConf": 0.47280562341837085,
+    "PseudoCoverage": 0.3483483483483483,
+    "QualityScore": 0.6190747235612598
+  },
+  {
+    "lexeme": "gesichtsmaske",
+    "StabilityErr": 0.26380741596221924,
+    "MeanConf": 0.5818054169137765,
+    "PseudoCoverage": 0.6845637583892618,
+    "QualityScore": 0.5466783594776756
+  },
+  {
+    "lexeme": "klappe",
+    "StabilityErr": 0.03835402429103851,
+    "MeanConf": 0.4061225304592512,
+    "PseudoCoverage": 0.15552200172562555,
+    "QualityScore": 0.5231904815588836
+  },
+  {
+    "lexeme": "universit\u00e4t",
+    "StabilityErr": 0.04251117631793022,
+    "MeanConf": 0.39237552211699495,
+    "PseudoCoverage": 0.1015047181841367,
+    "QualityScore": 0.48546463743414486
+  },
+  {
+    "lexeme": "kurs",
+    "StabilityErr": 0.056298401206731796,
+    "MeanConf": 0.39383989538770947,
+    "PseudoCoverage": 0.13678885070637647,
+    "QualityScore": 0.4807489723039296
+  },
+  {
+    "lexeme": "bank",
+    "StabilityErr": 0.057917892932891846,
+    "MeanConf": 0.3920549721372704,
+    "PseudoCoverage": 0.1310966597694354,
+    "QualityScore": 0.4748303015391582
+  },
+  {
+    "lexeme": "decke",
+    "StabilityErr": 0.06970981508493423,
+    "MeanConf": 0.41242216639281926,
+    "PseudoCoverage": 0.13172866520787746,
+    "QualityScore": 0.47432497869250945
+  },
+  {
+    "lexeme": "tor",
+    "StabilityErr": 0.06287700682878494,
+    "MeanConf": 0.3871434333264385,
+    "PseudoCoverage": 0.07625976825653463,
+    "QualityScore": 0.442589650613778
+  },
+  {
+    "lexeme": "richtung",
+    "StabilityErr": 0.09486947953701019,
+    "MeanConf": 0.3992972429150547,
+    "PseudoCoverage": 0.16458852867830423,
+    "QualityScore": 0.4410391216522182
+  },
+  {
+    "lexeme": "atmosph\u00e4re",
+    "StabilityErr": 0.07349663227796555,
+    "MeanConf": 0.38112863092331395,
+    "PseudoCoverage": 0.11367478866235704,
+    "QualityScore": 0.43732664876415006
+  },
+  {
+    "lexeme": "fu\u00df",
+    "StabilityErr": 0.031594306230545044,
+    "MeanConf": 0.3410548574752198,
+    "PseudoCoverage": 0.013553082908056555,
+    "QualityScore": 0.42643026200566647
+  },
+  {
+    "lexeme": "blatt",
+    "StabilityErr": 0.04990886151790619,
+    "MeanConf": 0.2627799840167374,
+    "PseudoCoverage": 0.0017946317103620475,
+    "QualityScore": 0.33431332141452275
+  },
+  {
+    "lexeme": "buch",
+    "StabilityErr": 0.06972872465848923,
+    "MeanConf": 0.28341979055775185,
+    "PseudoCoverage": 0.00032602494090797947,
+    "QualityScore": 0.32179646371597787
+  },
+  {
+    "lexeme": "fl\u00fcgel",
+    "StabilityErr": 0.05736282095313072,
+    "MeanConf": 0.2406824656808351,
+    "PseudoCoverage": 0.008390743684861332,
+    "QualityScore": 0.30892027821024076
+  },
+  {
+    "lexeme": "block",
+    "StabilityErr": 0.09099507331848145,
+    "MeanConf": 0.2965255853942215,
+    "PseudoCoverage": 0.013830024537140308,
+    "QualityScore": 0.3071278916225517
+  },
+  {
+    "lexeme": "maske",
+    "StabilityErr": 0.11837857961654663,
+    "MeanConf": 0.2707821029286435,
+    "PseudoCoverage": 0.000832870627429206,
+    "QualityScore": 0.2429250728330651
+  },
+  {
+    "lexeme": "kasse",
+    "StabilityErr": 0.10732710361480713,
+    "MeanConf": 0.22506215907295216,
+    "PseudoCoverage": 0.0,
+    "QualityScore": 0.22237548579870245
+  }
+]

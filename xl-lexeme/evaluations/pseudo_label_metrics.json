@@ -1,0 +1,262 @@
+{
+  "schimmel": {
+    "Lexeme": "schimmel",
+    "PseudoCount": 1584,
+    "RejectedCount": 744,
+    "Coverage": 0.6804123711340206,
+    "MeanConfidence": 0.6279046739700356,
+    "StdConfidence": 0.09950363148486278,
+    "SenseEntropy": 1.0141531156939265,
+    "TemporalInstability": 0.03616397915705218
+  },
+  "maske": {
+    "Lexeme": "maske",
+    "PseudoCount": 6,
+    "RejectedCount": 7198,
+    "Coverage": 0.000832870627429206,
+    "MeanConfidence": 0.5320915155502542,
+    "StdConfidence": 0.023646334014043213,
+    "SenseEntropy": 1.0114042647073518,
+    "TemporalInstability": 0.45445436744939044
+  },
+  "richtung": {
+    "Lexeme": "richtung",
+    "PseudoCount": 66,
+    "RejectedCount": 335,
+    "Coverage": 0.16458852867830423,
+    "MeanConfidence": 0.5713166158985578,
+    "StdConfidence": 0.06038529463430383,
+    "SenseEntropy": 0.6496877127476234,
+    "TemporalInstability": 0.09397166694080646
+  },
+  "block": {
+    "Lexeme": "block",
+    "PseudoCount": 124,
+    "RejectedCount": 8842,
+    "Coverage": 0.013830024537140308,
+    "MeanConfidence": 0.5335487600412409,
+    "StdConfidence": 0.030504248487723262,
+    "SenseEntropy": 0.6410528337564783,
+    "TemporalInstability": 0.21157608683769702
+  },
+  "fu\u00df": {
+    "Lexeme": "fu\u00df",
+    "PseudoCount": 162,
+    "RejectedCount": 11791,
+    "Coverage": 0.013553082908056555,
+    "MeanConfidence": 0.53149870338731,
+    "StdConfidence": 0.026963768408588776,
+    "SenseEntropy": 1.1194836923390248,
+    "TemporalInstability": 0.11529470819651108
+  },
+  "klima": {
+    "Lexeme": "klima",
+    "PseudoCount": 308,
+    "RejectedCount": 92,
+    "Coverage": 0.77,
+    "MeanConfidence": 0.6621859986997596,
+    "StdConfidence": 0.1071153838542462,
+    "SenseEntropy": 0.8458890762823718,
+    "TemporalInstability": 0.05491046449244048
+  },
+  "pflaster": {
+    "Lexeme": "pflaster",
+    "PseudoCount": 2957,
+    "RejectedCount": 1662,
+    "Coverage": 0.6401818575449232,
+    "MeanConfidence": 0.6244477408659265,
+    "StdConfidence": 0.09510984601815836,
+    "SenseEntropy": 1.0411627232865852,
+    "TemporalInstability": 0.02041483205244508
+  },
+  "decke": {
+    "Lexeme": "decke",
+    "PseudoCount": 1204,
+    "RejectedCount": 7936,
+    "Coverage": 0.13172866520787746,
+    "MeanConfidence": 0.5713819395724358,
+    "StdConfidence": 0.06260818372511137,
+    "SenseEntropy": 1.2701146545839501,
+    "TemporalInstability": 0.07778950679481765
+  },
+  "pinsel": {
+    "Lexeme": "pinsel",
+    "PseudoCount": 195,
+    "RejectedCount": 110,
+    "Coverage": 0.639344262295082,
+    "MeanConfidence": 0.6062199697620583,
+    "StdConfidence": 0.0917871101119787,
+    "SenseEntropy": 0.28934858962228044,
+    "TemporalInstability": 0.02103966233621542
+  },
+  "kurs": {
+    "Lexeme": "kurs",
+    "PseudoCount": 1433,
+    "RejectedCount": 9043,
+    "Coverage": 0.13678885070637647,
+    "MeanConfidence": 0.5683725731765055,
+    "StdConfidence": 0.05673877981699682,
+    "SenseEntropy": 0.9556092864178214,
+    "TemporalInstability": 0.10229539099881238
+  },
+  "kasse": {
+    "Lexeme": "kasse",
+    "PseudoCount": 0,
+    "RejectedCount": 406,
+    "Coverage": 0.0,
+    "MeanConfidence": 0.0,
+    "StdConfidence": 0.0,
+    "SenseEntropy": 0.0,
+    "TemporalInstability": 0.0
+  },
+  "bank": {
+    "Lexeme": "bank",
+    "PseudoCount": 1774,
+    "RejectedCount": 11758,
+    "Coverage": 0.1310966597694354,
+    "MeanConfidence": 0.5590791742793424,
+    "StdConfidence": 0.050767962569405294,
+    "SenseEntropy": 0.5766523799487677,
+    "TemporalInstability": 0.020803515419773655
+  },
+  "klappe": {
+    "Lexeme": "klappe",
+    "PseudoCount": 721,
+    "RejectedCount": 3915,
+    "Coverage": 0.15552200172562555,
+    "MeanConfidence": 0.5699331323008933,
+    "StdConfidence": 0.06400463569542844,
+    "SenseEntropy": 1.3742582393302754,
+    "TemporalInstability": 0.14504565857336474
+  },
+  "virus": {
+    "Lexeme": "virus",
+    "PseudoCount": 5596,
+    "RejectedCount": 807,
+    "Coverage": 0.8739653287521474,
+    "MeanConfidence": 0.6765306776386713,
+    "StdConfidence": 0.10800262995795896,
+    "SenseEntropy": 0.7438144469201265,
+    "TemporalInstability": 0.04715512701468804
+  },
+  "diarium": {
+    "Lexeme": "diarium",
+    "PseudoCount": 20,
+    "RejectedCount": 7,
+    "Coverage": 0.7407407407407407,
+    "MeanConfidence": 0.6248628101508227,
+    "StdConfidence": 0.10185707488735746,
+    "SenseEntropy": 0.3250829733914482,
+    "TemporalInstability": 0.06555863601342385
+  },
+  "blatt": {
+    "Lexeme": "blatt",
+    "PseudoCount": 23,
+    "RejectedCount": 12793,
+    "Coverage": 0.0017946317103620475,
+    "MeanConfidence": 0.5311575366870676,
+    "StdConfidence": 0.025288386952181108,
+    "SenseEntropy": 0.0,
+    "TemporalInstability": 0.0
+  },
+  "buch": {
+    "Lexeme": "buch",
+    "PseudoCount": 4,
+    "RejectedCount": 12265,
+    "Coverage": 0.00032602494090797947,
+    "MeanConfidence": 0.5430885263123074,
+    "StdConfidence": 0.025188386144990617,
+    "SenseEntropy": 0.0,
+    "TemporalInstability": 0.0
+  },
+  "atmosph\u00e4re": {
+    "Lexeme": "atmosph\u00e4re",
+    "PseudoCount": 1143,
+    "RejectedCount": 8912,
+    "Coverage": 0.11367478866235704,
+    "MeanConfidence": 0.565698310860552,
+    "StdConfidence": 0.05671988514281925,
+    "SenseEntropy": 1.3085695199544911,
+    "TemporalInstability": 0.07910246735757381
+  },
+  "universit\u00e4t": {
+    "Lexeme": "universit\u00e4t",
+    "PseudoCount": 1194,
+    "RejectedCount": 10569,
+    "Coverage": 0.1015047181841367,
+    "MeanConfidence": 0.562092618885899,
+    "StdConfidence": 0.05583971295513297,
+    "SenseEntropy": 0.9170582996092544,
+    "TemporalInstability": 0.027051691071320643
+  },
+  "stammbuch": {
+    "Lexeme": "stammbuch",
+    "PseudoCount": 116,
+    "RejectedCount": 217,
+    "Coverage": 0.3483483483483483,
+    "MeanConfidence": 0.589129758457596,
+    "StdConfidence": 0.06893514780339133,
+    "SenseEntropy": 0.4166807772073985,
+    "TemporalInstability": 0.00878118991950021
+  },
+  "zeitung": {
+    "Lexeme": "zeitung",
+    "PseudoCount": 7795,
+    "RejectedCount": 4059,
+    "Coverage": 0.6575839379112536,
+    "MeanConfidence": 0.6134012362555625,
+    "StdConfidence": 0.09052869552854678,
+    "SenseEntropy": 0.7572529585653458,
+    "TemporalInstability": 0.019985851833414617
+  },
+  "schnabel": {
+    "Lexeme": "schnabel",
+    "PseudoCount": 494,
+    "RejectedCount": 454,
+    "Coverage": 0.5210970464135021,
+    "MeanConfidence": 0.6057308440484358,
+    "StdConfidence": 0.09554616216228472,
+    "SenseEntropy": 1.0524945309525113,
+    "TemporalInstability": 0.23503349722468148
+  },
+  "tor": {
+    "Lexeme": "tor",
+    "PseudoCount": 849,
+    "RejectedCount": 10284,
+    "Coverage": 0.07625976825653463,
+    "MeanConfidence": 0.5551072704703806,
+    "StdConfidence": 0.050647317016019634,
+    "SenseEntropy": 1.4425542402340348,
+    "TemporalInstability": 0.10018042654479091
+  },
+  "fl\u00fcgel": {
+    "Lexeme": "fl\u00fcgel",
+    "PseudoCount": 95,
+    "RejectedCount": 11227,
+    "Coverage": 0.008390743684861332,
+    "MeanConfidence": 0.5305509742871243,
+    "StdConfidence": 0.02924506070486346,
+    "SenseEntropy": 0.0,
+    "TemporalInstability": 0.0
+  },
+  "kartenspiel": {
+    "Lexeme": "kartenspiel",
+    "PseudoCount": 190,
+    "RejectedCount": 90,
+    "Coverage": 0.6785714285714286,
+    "MeanConfidence": 0.6181768191587085,
+    "StdConfidence": 0.09083189655072495,
+    "SenseEntropy": 0.6679402913016452,
+    "TemporalInstability": 0.05910053039351948
+  },
+  "gesichtsmaske": {
+    "Lexeme": "gesichtsmaske",
+    "PseudoCount": 102,
+    "RejectedCount": 47,
+    "Coverage": 0.6845637583892618,
+    "MeanConfidence": 0.6530578658557097,
+    "StdConfidence": 0.11166851831426003,
+    "SenseEntropy": 0.5731981417769201,
+    "TemporalInstability": 0.20754755314477394
+  }
+}

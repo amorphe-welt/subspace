@@ -1,0 +1,86 @@
+{
+  "model_name": "pierluigic/xl-lexeme",
+  "pooling": "mean",
+  "batch_size": 32,
+  "device": "cuda",
+  "lexeme_layers": {
+    "pflaster": [
+      24
+    ],
+    "buch": [
+      21
+    ],
+    "universit\u00e4t": [
+      14
+    ],
+    "block": [
+      24
+    ],
+    "zeitung": [
+      18
+    ],
+    "decke": [
+      24
+    ],
+    "tor": [
+      24
+    ],
+    "klappe": [
+      24
+    ],
+    "fl\u00fcgel": [
+      24
+    ],
+    "virus": [
+      24
+    ],
+    "fu\u00df": [
+      14
+    ],
+    "bank": [
+      24
+    ],
+    "schimmel": [
+      24
+    ],
+    "blatt": [
+      24
+    ],
+    "maske": [
+      21
+    ],
+    "atmosph\u00e4re": [
+      24
+    ],
+    "kurs": [
+      24
+    ],
+    "gesichtsmaske": [
+      24
+    ],
+    "kartenspiel": [
+      14
+    ],
+    "kasse": [
+      24
+    ],
+    "klima": [
+      24
+    ],
+    "schnabel": [
+      24
+    ],
+    "pinsel": [
+      21
+    ],
+    "richtung": [
+      24
+    ],
+    "stammbuch": [
+      21
+    ],
+    "diarium": [
+      24
+    ]
+  }
+}

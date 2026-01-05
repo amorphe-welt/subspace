@@ -1,0 +1,184 @@
+{
+  "richtung": {
+    "dimension": 6,
+    "embedding_dim": 1024,
+    "n_senses": 4,
+    "orthonormality_error": 1.4109234821043684,
+    "stability": 0.9960403442382812
+  },
+  "virus": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 0.9853459169423766,
+    "stability": 0.9968744516372681
+  },
+  "diarium": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 0.6817233768255779,
+    "stability": 0.9768306612968445
+  },
+  "buch": {
+    "dimension": 15,
+    "embedding_dim": 1024,
+    "n_senses": 6,
+    "orthonormality_error": 2.2201165229245605,
+    "stability": 0.9859375953674316
+  },
+  "zeitung": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.2591552812490858,
+    "stability": 0.9276650547981262
+  },
+  "stammbuch": {
+    "dimension": 6,
+    "embedding_dim": 1024,
+    "n_senses": 4,
+    "orthonormality_error": 1.25698430683832,
+    "stability": 0.9784584641456604
+  },
+  "gesichtsmaske": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.254529647774693,
+    "stability": 0.9705491662025452
+  },
+  "atmosph\u00e4re": {
+    "dimension": 10,
+    "embedding_dim": 1024,
+    "n_senses": 5,
+    "orthonormality_error": 2.0143500554064695,
+    "stability": 0.9982185363769531
+  },
+  "block": {
+    "dimension": 15,
+    "embedding_dim": 1024,
+    "n_senses": 6,
+    "orthonormality_error": 2.451663232607593,
+    "stability": 0.9809313416481018
+  },
+  "kurs": {
+    "dimension": 10,
+    "embedding_dim": 1024,
+    "n_senses": 5,
+    "orthonormality_error": 2.020627123434497,
+    "stability": 0.9971463680267334
+  },
+  "klima": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.0061137361376618,
+    "stability": 0.9981933236122131
+  },
+  "fu\u00df": {
+    "dimension": 10,
+    "embedding_dim": 1024,
+    "n_senses": 5,
+    "orthonormality_error": 1.6744099952028761,
+    "stability": 0.9641305804252625
+  },
+  "universit\u00e4t": {
+    "dimension": 6,
+    "embedding_dim": 1024,
+    "n_senses": 4,
+    "orthonormality_error": 1.5112901453747738,
+    "stability": 0.9863929748535156
+  },
+  "pinsel": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.3018837837355723,
+    "stability": 0.9840587973594666
+  },
+  "tor": {
+    "dimension": 10,
+    "embedding_dim": 1024,
+    "n_senses": 5,
+    "orthonormality_error": 1.729843241493893,
+    "stability": 0.9982588887214661
+  },
+  "kasse": {
+    "dimension": 21,
+    "embedding_dim": 1024,
+    "n_senses": 7,
+    "orthonormality_error": 2.6694165371269603,
+    "stability": 0.9965782165527344
+  },
+  "fl\u00fcgel": {
+    "dimension": 28,
+    "embedding_dim": 1024,
+    "n_senses": 8,
+    "orthonormality_error": 2.8723264202170085,
+    "stability": 0.9917687177658081
+  },
+  "kartenspiel": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 0.8288482484620229,
+    "stability": 0.986217200756073
+  },
+  "klappe": {
+    "dimension": 6,
+    "embedding_dim": 1024,
+    "n_senses": 4,
+    "orthonormality_error": 1.6260600438861441,
+    "stability": 0.9952910542488098
+  },
+  "pflaster": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 0.8310929545747212,
+    "stability": 0.9967232942581177
+  },
+  "blatt": {
+    "dimension": 21,
+    "embedding_dim": 1024,
+    "n_senses": 7,
+    "orthonormality_error": 2.471346442443998,
+    "stability": 0.9905866384506226
+  },
+  "decke": {
+    "dimension": 6,
+    "embedding_dim": 1024,
+    "n_senses": 4,
+    "orthonormality_error": 1.4854328053408499,
+    "stability": 0.9961658716201782
+  },
+  "schnabel": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.0793979452128113,
+    "stability": 0.9993669390678406
+  },
+  "maske": {
+    "dimension": 15,
+    "embedding_dim": 1024,
+    "n_senses": 6,
+    "orthonormality_error": 2.370836683302604,
+    "stability": 0.9610366821289062
+  },
+  "schimmel": {
+    "dimension": 3,
+    "embedding_dim": 1024,
+    "n_senses": 3,
+    "orthonormality_error": 1.17948226735423,
+    "stability": 0.998491644859314
+  },
+  "bank": {
+    "dimension": 10,
+    "embedding_dim": 1024,
+    "n_senses": 5,
+    "orthonormality_error": 1.6578149660551609,
+    "stability": 0.9953160285949707
+  }
+}
